@@ -1,2 +1,2 @@
 #!/bin/bash
-chom -R a+x ./* 
+chom a+X ./* 
